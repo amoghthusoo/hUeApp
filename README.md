@@ -60,12 +60,6 @@
 
 - **Reset Settings**: Reset the app to its default settings using the reset option in the settings menu.
 
-## Screenshots
-
-![Home Screen](screenshots/home_screen.png)
-![Color Selection](screenshots/color_selection.png)
-![Color Harmonies](screenshots/color_harmonies.png)
-
 ## License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
@@ -77,4 +71,4 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## Contact
 
-For any questions or feedback, please reach out to [amogh.thusoo@example.com](mailto:amogh.thusoo@example.com).
+For any questions or suggestions, feel free to reach out to [amoghthusoo](https://github.com/amoghthusoo).
